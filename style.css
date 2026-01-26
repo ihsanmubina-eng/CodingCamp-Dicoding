@@ -118,8 +118,8 @@ html {
   border-radius: 20px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   text-align: center;
-  background-color: #2980b9;
-  color: white;
+  background-color: white;
+  color: #595959;
 }
 .kucing{
   margin-left: 150px;
@@ -138,7 +138,7 @@ html {
 .tombol-saran {
   padding:7px 12px;
   background: #27ae60;
-  color: #fff;
+  color: #595959;
   border: none;
   border-radius: 4px;}
 
