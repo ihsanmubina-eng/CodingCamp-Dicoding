@@ -1,0 +1,155 @@
+
+
+.container {
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.header {
+  background: #2c3e50;
+  color: #fff;
+}
+.Welcome{
+  padding-top: 20px ;
+}
+
+
+
+
+.navbar-link {
+  padding-bottom: 10px;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+}
+
+.navbar-link li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+.navbar-link li a:hover {
+  color: aqua;
+  
+}
+
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  gap: 20px;
+}
+
+.wrapper {
+  flex: 2;
+}
+
+.article-section {
+  background: #fff;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+
+.text h1 {
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+.text p {
+  margin-bottom: 1rem;
+}
+
+.gambar-muka img {
+margin-top: 10px;
+  max-width: 100px;
+  border-radius: 25px;
+
+  
+}
+
+.Profil-sekolah{
+    border-radius: 50px;
+    max-width: 200px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.kartu {
+  background: #ecf0f1;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.kartu-gambar {
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+.tombol {
+  display: inline-block;
+  padding: 5px 10px;
+  background: #3498db;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.tombol:hover {
+  background: #2980b9;
+}
+
+
+.sidebar {
+  flex: 1;
+  background: #fff;
+  padding: 15px;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  text-align: center;
+  background-color: #2980b9;
+  color: white;
+}
+.kucing{
+  margin-left: 150px;
+  margin-top: 15px;
+}
+
+.input-saran {
+  width: 100%;
+  padding: 7px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+.tombol-saran {
+  padding:7px 12px;
+  background: #27ae60;
+  color: #fff;
+  border: none;
+  border-radius: 4px;}
+
+.tombol-saran:hover {
+  background: #1e8449;
+}
+
+.footer {
+  background: #2c3e50;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
