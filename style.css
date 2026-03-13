@@ -12,6 +12,8 @@
 }
 .Welcome{
   padding-top: 20px ;
+  text-align: center;
+  font-weight: bold;
 
 }
 
@@ -24,6 +26,7 @@
   display: flex;
   gap: 20px;
   justify-content: end;
+  position: sticky;
 }
 
 .navbar-link li a {
